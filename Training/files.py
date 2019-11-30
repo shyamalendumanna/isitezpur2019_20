@@ -5,6 +5,8 @@ Created on Fri Nov 29 14:56:42 2019
 @author: gupta
 """
 
+#https://www.python.org/dev/peps/pep-0008/#indentation
+#for coding guidelines
 
 afile = "some_file.txt"
 
